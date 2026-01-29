@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arturo</h1>
 <h3 align="center">A junior web developer passionate about building clean, functional and responsive web applications</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artfal" alt="artfal" /></a> </p>
-
 - 🔭 I’m currently working on **web systems with CodeIgniter 4, including: - CRUD applications - Admin dashboards - Forms with validations - Responsive layouts**
 
 - 🌱 I’m currently learning **and improving my skills in Web Development**
@@ -20,9 +17,6 @@
 
 - ⚡ Fun fact: **I enjoy turning complex requirements into simple and clean solutions**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
